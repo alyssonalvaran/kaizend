@@ -40,20 +40,14 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
-<<<<<<< HEAD
-=======
 .nox/
->>>>>>> kaizend-session-4/master
 .coverage
 .coverage.*
 .cache
 nosetests.xml
 coverage.xml
 *.cover
-<<<<<<< HEAD
-=======
 *.py,cover
->>>>>>> kaizend-session-4/master
 .hypothesis/
 .pytest_cache/
 
@@ -65,10 +59,7 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
-<<<<<<< HEAD
-=======
 db.sqlite3-journal
->>>>>>> kaizend-session-4/master
 
 # Flask stuff:
 instance/
@@ -86,13 +77,6 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-<<<<<<< HEAD
-# pyenv
-.python-version
-
-# celery beat schedule file
-celerybeat-schedule
-=======
 # IPython
 profile_default/
 ipython_config.py
@@ -113,7 +97,6 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
->>>>>>> kaizend-session-4/master
 
 # SageMath parsed files
 *.sage.py
@@ -139,11 +122,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-<<<<<<< HEAD
-=======
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> kaizend-session-4/master
+
+.DS_Store
