@@ -1,2 +1,5 @@
-# kaizend-session-2
-This repository contains the exercises during Python PH's Kaizend Session #2.
+# kaizend
+
+This repository contains the exercises done during the following Kaizend Sessions hosted by Python PH:
+* session-2: Python for Data Analysis
+* session-4: DIY Data Workshop
